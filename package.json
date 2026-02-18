@@ -1,6 +1,6 @@
 {
     "name": "@jmcmahon1999/convver-gradle",
-    "version": "1.0.5",
+    "version": "0.0.0",
     "description": "convver plugin for gradle projects",
     "main": "index.js",
     "scripts": {
